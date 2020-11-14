@@ -2,7 +2,6 @@
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Application/bin/Debug/net5.0/ECommerce.Application.dll
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Application/bin/Debug/net5.0/ref/ECommerce.Application.dll
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Application/bin/Debug/net5.0/ECommerce.Application.pdb
-/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Application/obj/Debug/net5.0/ECommerce.Application.csprojAssemblyReference.cache
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Application/obj/Debug/net5.0/ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Application/obj/Debug/net5.0/ECommerce.Application.AssemblyInfoInputs.cache
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Application/obj/Debug/net5.0/ECommerce.Application.AssemblyInfo.cs

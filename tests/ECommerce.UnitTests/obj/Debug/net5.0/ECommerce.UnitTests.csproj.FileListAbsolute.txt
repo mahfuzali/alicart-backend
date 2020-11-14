@@ -87,7 +87,6 @@
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/tests/ECommerce.UnitTests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/tests/ECommerce.UnitTests/bin/Debug/net5.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/tests/ECommerce.UnitTests/bin/Debug/net5.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/tests/ECommerce.UnitTests/obj/Debug/net5.0/ECommerce.UnitTests.csprojAssemblyReference.cache
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/tests/ECommerce.UnitTests/obj/Debug/net5.0/ECommerce.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/tests/ECommerce.UnitTests/obj/Debug/net5.0/ECommerce.UnitTests.AssemblyInfoInputs.cache
 /Users/mahfuzali/Documents/Developement/CSharp/ECommerce/tests/ECommerce.UnitTests/obj/Debug/net5.0/ECommerce.UnitTests.AssemblyInfo.cs
