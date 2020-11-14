@@ -1,0 +1,12 @@
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/bin/Debug/net5.0/ECommerce.Infrastructure.deps.json
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/bin/Debug/net5.0/ECommerce.Infrastructure.dll
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/bin/Debug/net5.0/ref/ECommerce.Infrastructure.dll
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/bin/Debug/net5.0/ECommerce.Infrastructure.pdb
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/obj/Debug/net5.0/ECommerce.Infrastructure.csprojAssemblyReference.cache
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/obj/Debug/net5.0/ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/obj/Debug/net5.0/ECommerce.Infrastructure.AssemblyInfoInputs.cache
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/obj/Debug/net5.0/ECommerce.Infrastructure.AssemblyInfo.cs
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/obj/Debug/net5.0/ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/obj/Debug/net5.0/ECommerce.Infrastructure.dll
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/obj/Debug/net5.0/ref/ECommerce.Infrastructure.dll
+/Users/mahfuzali/Documents/Developement/CSharp/ECommerce/src/ECommerce.Infrastructure/obj/Debug/net5.0/ECommerce.Infrastructure.pdb
